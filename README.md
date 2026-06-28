@@ -5,8 +5,8 @@
 ## スクリーンショット
 ![トップページ](screenshots/top.png)
 ![サイドバー](screenshots/side.png)
-![検索](screenshots/side.png)
-![出品](screenshots/serch.png)
+![検索](screenshots/serch.png)
+![出品](screenshots/sell.png)
 ![レスポンシブ](screenshots/responsive.png)
 
 ## 主な機能
